@@ -1,5 +1,6 @@
   
 import './App.css'
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import AppLayout from './Layout/app-layout';
